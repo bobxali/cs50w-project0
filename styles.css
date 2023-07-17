@@ -1,4 +1,5 @@
 ﻿.navbar {
+
     list-style-type: none;
     display: flex;
     justify-content: flex-end;
@@ -24,8 +25,10 @@
   margin-top: 30px;
 
 
+
 }
 .buttoninput {
+   
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     border-radius: 4px;
@@ -41,9 +44,10 @@
     cursor: pointer;
     user-select: none;
 }
-.imagecenter {
+.divcenter {
     display: flex;
     justify-content: center;
+    align-items:center
 }
 
 /* Remove underline from links */
@@ -71,4 +75,55 @@ a:hover {
 a:active {
     text-decoration: none;
     color: black;
+}
+.adv1 {
+    color: #D93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.adv2 {
+    font-size:16px;
+    margin: 25px 35px;
+   
+    color: #333333;
+}
+.hline {
+    border-bottom: 1px solid #ebebeb;
+}
+.advblock {
+ 
+    margin:  50px ;
+}
+.rowinput {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top:20px;
+    
+}
+.left {
+    width: 200px;
+    
+}
+.right {
+    width: 385px;
+    
+}
+.p-adv {
+    font-size: 13px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.btn-advanced {
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+}
+.btn-div{
+    display:flex;
+    justify-content:end;
+    width:580px;
+    margin-top:25px;
 }
