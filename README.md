@@ -1,7 +1,9 @@
 #  cs50w-project0
 ## Adanced Google Search
-### In this project, a simple clone of Google Search, Google Image Search, and Google Advanced Search will be created using HTML and CSS. The aim is to closely replicate the appearance and functionality of Google's search pages, including a search bar, search buttons, and various search options similar to Google's own advanced search features
-## Specifications:
+
+ In this project, a simple clone of Google Search, Google Image Search, and Google Advanced Search will be created using HTML and CSS. The aim is to closely replicate the appearance and functionality of Google's search pages, including a search bar, search buttons, and various search options similar to Google's own advanced search features
+
+## Specification
 
  - The website must consist of three primary pages: Google Search, Google Image Search, and Google Advanced Search.
 
